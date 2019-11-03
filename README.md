@@ -1,7 +1,7 @@
 # FirstProject
-Portfolio (Html, CSS)
-https://mariuuuusz.github.io/FirstProject/
-Twórcy: Mariusz Porysiak
+### Portfolio (Html, CSS)
+#### https://mariuuuusz.github.io/FirstProject/
+#### Twórcy: Mariusz Porysiak
 
 ![about](https://user-images.githubusercontent.com/57302722/68077701-be546800-fdc8-11e9-9236-10033dae7bf5.png)
 ![skills](https://user-images.githubusercontent.com/57302722/68077713-f9569b80-fdc8-11e9-9057-b16df7744635.png)
